@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=CHAJIMIN%20render&fontSize=90" >
-Cha JIMIN
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=CHA%20JIMIN&fontSize=90" >
+
 
 
 
