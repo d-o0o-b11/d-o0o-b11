@@ -22,3 +22,10 @@
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
 
   </div>
+
+<br>
+<br>
+<div align=center><h1>📢 Email</h1></div>
+<div align=center> 
+  <h3> jimin8830@naver.com </h3>
+</div>
