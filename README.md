@@ -26,7 +26,14 @@
 
 <br>
 <br>
+<div align=center><h1>📢 Notion</h1></div>
+<div align=center> 
+  <Link> https://www.notion.so/Cha-Jimin-2429ea15224b47a99df219f3289f7503</Link>
+</div>
+<br>
+<br>
 <div align=center><h1>📢 Email</h1></div>
 <div align=center> 
   <h3> jimin8830@naver.com </h3>
 </div>
+
