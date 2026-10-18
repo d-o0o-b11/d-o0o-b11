@@ -17,5 +17,4 @@ jobs:
         with:
           feed_list: "https://d-o0o-b11.github.io/feed.xml"
           max_post_count: 5
-          template: "- [$title]($url)$newline"
           commit_message: "최근 블로그 글 갱신"

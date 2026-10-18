@@ -19,7 +19,8 @@
 
 #### Recent Posts
 
-<!-- BLOG-POST-LIST:START -->- [별자리 탭 만들기](https://d-o0o-b11.github.io/posts/constellation-tab/)
+<!-- BLOG-POST-LIST:START -->
+- [별자리 탭 만들기](https://d-o0o-b11.github.io/posts/constellation-tab/)
 - [푸시 알림 붙이기](https://d-o0o-b11.github.io/posts/push-notification/)
 - [반복 투두, 미리 만들지 않기로 했다](https://d-o0o-b11.github.io/posts/recurring-todo-virtualization/)
 - [배포 범위를 조절해 롤백 대신 안전하게 대응하기](https://d-o0o-b11.github.io/posts/istio-version-rollout/)
